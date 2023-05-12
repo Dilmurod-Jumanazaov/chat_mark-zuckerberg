@@ -174,7 +174,7 @@ body {
   background-color: #e6edf6;
 }
 .chat__text-box-last {
-  max-width: 193px;
+  max-width: 195px;
   width: 100%;
   margin-bottom: 30px;
   margin-left: 158px;
@@ -205,7 +205,7 @@ body {
   border-radius: 54px;
 }
 .site-form__input {
-  margin-right: 44px;
+  margin-right: 42px;
   border: none;
 }
 .site-form__input:focus {
